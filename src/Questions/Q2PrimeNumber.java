@@ -1,6 +1,5 @@
 package Questions;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Q2PrimeNumber {
@@ -28,7 +27,7 @@ public class Q2PrimeNumber {
             System.out.println(n + " " + "is a prime number");
         }
         else {
-            System.out.println(n + "is not a prime number");
+            System.out.println(n +" " + "is not a prime number");
         }
     }
 }
