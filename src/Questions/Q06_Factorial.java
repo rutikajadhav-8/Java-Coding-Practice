@@ -2,7 +2,7 @@ package Questions;
 
 import java.util.Scanner;
 
-public class Q6_Factorial{
+public class Q06_Factorial {
     //Iterative method
     static int factorial(int n){
       int fact = 1;

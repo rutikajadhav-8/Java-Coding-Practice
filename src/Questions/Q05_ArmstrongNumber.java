@@ -2,7 +2,7 @@ package Questions;
 
 import java.util.Scanner;
 
-public class Q5_ArmstrongNumber {
+public class Q05_ArmstrongNumber {
     static boolean isArmstrong(int x){
         if(x<0){
             return false;

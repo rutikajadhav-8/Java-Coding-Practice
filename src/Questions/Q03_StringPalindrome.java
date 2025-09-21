@@ -2,7 +2,7 @@ package Questions;
 
 import java.util.Scanner;
 
-public class Q3_StringPalindrome {
+public class Q03_StringPalindrome {
 
     static boolean isPalindrome(String str){
         int left = 0;

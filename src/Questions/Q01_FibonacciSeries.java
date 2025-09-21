@@ -1,6 +1,6 @@
 package Questions;
 
-public class Q1_FibonacciSeries {
+public class Q01_FibonacciSeries {
 
     static void fibonacci(int n){
         int a = 0, b = 1;

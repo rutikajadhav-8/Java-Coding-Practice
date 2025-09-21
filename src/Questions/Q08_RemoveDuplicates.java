@@ -3,7 +3,7 @@ package Questions;
 import java.util.Arrays;
 import java.util.LinkedHashSet;
 
-public class Q8_RemoveDuplicates {
+public class Q08_RemoveDuplicates {
     static void removeDup(int []arr){
 
         LinkedHashSet <Integer> set = new LinkedHashSet<>();

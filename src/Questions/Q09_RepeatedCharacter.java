@@ -2,7 +2,7 @@ package Questions;
 
 import java.util.Scanner;
 
-public class Q9_RepeatedCharacter {
+public class Q09_RepeatedCharacter {
     static void repeatedCh(String str){
         int count = 0;
         char[] ch = str.toLowerCase().toCharArray();

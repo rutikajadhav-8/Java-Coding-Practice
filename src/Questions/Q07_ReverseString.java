@@ -2,7 +2,7 @@ package Questions;
 
 import java.util.Scanner;
 
-public class Q7_ReverseString {
+public class Q07_ReverseString {
     // Using for loop
     static String reverseStr(String str){
        String r =" ";

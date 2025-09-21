@@ -2,7 +2,7 @@ package Questions;
 
 import java.util.Scanner;
 
-public class Q4_IntegerPalindrome {
+public class Q04_IntegerPalindrome {
     static boolean isIntPalindrome(int x){
 
         if(x<0){
